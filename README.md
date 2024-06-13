@@ -1,5 +1,5 @@
-## Salve! Eu sou Pedro Alcantara
 <div>
+  <img height="180em" src="https://github.com/PedroAlcantara13/PedroAlcantara13/blob/main/banner.png?raw=true">
   <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlcantara13&theme=midnight-purple&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlcantara13&layout=compact&theme=midnight-purple">
